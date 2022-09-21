@@ -11,7 +11,7 @@
     2.  범용적인 형태의 데이터 송수신 → 대표적인 형태 : JSON
 -   직렬화(serialize) : 객체를 범용적인 형태(JSON)으로 변경하는 과정
   
-
+<br></br>
 -   **JSON in Java**
     -   자바에서 JSON으로 변환된 객체 타입 : 문자열(String)
     -   구현 : jackson 라이브러리의 ObjetMapper 클래스
