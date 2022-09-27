@@ -1,11 +1,11 @@
 # Today-I-Learn
 
 ## **자료구조**
--  ### [자료구조]()
+-  ### [자료구조](https://github.com/kung036/Today-I-Learn/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 -  ### [재귀(Recursive)](https://github.com/kung036/Today-I-Learn/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%9E%AC%EA%B7%80(Recursive).md)
--  ### [스택(Stack)]()
--  ### [큐(Queue)]()
--  ### [트리(Tree)]()
+-  ### [스택(Stack)](https://github.com/kung036/Today-I-Learn/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D(Stack).md)
+-  ### [큐(Queue)](https://github.com/kung036/Today-I-Learn/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%81%90(Queue).md)
+-  ### [트리(Tree)](https://github.com/kung036/Today-I-Learn/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%8A%B8%EB%A6%AC(Tree).md)
 
 
 ## **객체지향프로그래밍**
