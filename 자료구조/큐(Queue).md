@@ -26,7 +26,9 @@
 Queue<Integer> queue = new LinkedList<>();
 ```
 
-![Linear Queue](img_1.png)
+<p align="center">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcCkW1T%2FbtrMJP6l2ZH%2FZcPq4TQvFkbRJmanYbQaiK%2Fimg.png" alt="Linear Queue"/>
+</p>
 
 ## **원형큐(Circular Queue)**
 -   구조가 원형인 큐
@@ -38,7 +40,10 @@ Queue<Integer> queue = new LinkedList<>();
     -   포화상태 : front == (rear + 1) % QUEUE\_SIZE
     -   공백상태와 포화상태 구분을 위해서 공간 하나는 사용하지 않음
 
-![Circular Queue](img_2.png)
+<p align="center">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOabDT%2FbtrMMaIPQ3b%2F5svV2jhlRf8iCKSIuHX3C0%2Fimg.png" alt="Circular Queue"/>
+</p>
+
 
 ## **덱(Dequeue, Double Ended Queue)**
 -   양방향에서 입출력이 가능한 큐
@@ -46,4 +51,6 @@ Queue<Integer> queue = new LinkedList<>();
     1.  stack과 queue 구현해서 사용 가능
     2.  양방향으로 데이터 추가, 삭제
 
-![Dequeue](img_3.png)
+<p align="center">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbM8KYy%2FbtrMN8QM2Zv%2Flw1z08WBS5xcSEQbcnnx3k%2Fimg.png" alt="Dequeue"/>
+</p>
