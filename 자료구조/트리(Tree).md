@@ -18,7 +18,7 @@
     -   서브 트리(Sub Tree) : 전체 트리 구조에서 트리 구조를 갖춘 작은 트리 구조
 
 <p align="center">
-    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdvM6pd%2FbtrM7kRk3z5%2FSaorGkXkaXUHHjiOApaD0K%2Fimg.png" alt="Tree"/>
+    <img src="https://blog.kakaocdn.net/dn/ciCo3C/btrNwGAZOoc/Ku3UaKVBpb8epdXM2SyORK/img.png" alt="Tree"/>
 </p>
 
 ## **이진탐색트리(Binary Search Tree, BST)**

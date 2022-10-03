@@ -31,5 +31,5 @@
     -   사이클(cycle) : 한 정점이 다른 정점들을 거쳐서 다시 정점으로 돌아갈 수 있는 경우
 
 <p align="center">
-  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F71HFd%2FbtrM0mJWCwz%2FXmn7sNUBmW4KKai3mjEIF1%2Fimg.png" alt="Graph"/>
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbA0kur%2FbtrNAxpxU7S%2F7MbIOwIHL5tkKGkbhCRmdK%2Fimg.png" alt="Graph"/>
 </p>
