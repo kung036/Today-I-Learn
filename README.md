@@ -20,7 +20,7 @@
 -  ### [SOLID](https://github.com/kung036/Today-I-Learn/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/SOLID.md)
 
 ## **JSON**
--  ### [JSON](https://github.com/kung036/Today-I-Learn/blob/main/JSON.md)
+-  ### [JSON](https://github.com/kung036/Today-I-Learn/blob/main/JSON.md) 
 
 ## **오류해결**
 -  ### IntelliJ 한글깨짐 : [error: unmappable character (0xEC) for encoding x-windows-949](https://github.com/kung036/Today-I-Learn/blob/main/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90.md)
