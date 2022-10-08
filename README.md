@@ -23,7 +23,7 @@
 -  ### [JSON](https://github.com/kung036/Today-I-Learn/blob/main/JSON.md) 
 
 ## **오류해결**
--  ### IntelliJ 한글깨짐 : [error: unmappable character (0xEC) for encoding x-windows-949](https://github.com/kung036/Today-I-Learn/blob/main/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90.md)
+-  ### IntelliJ 한글깨짐 : [error: unmappable character (0xEC) for encoding x-windows-949](https://github.com/kung036/Today-I-Learn/blob/main/%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0/%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90.md) 
 
 ## **문제해결**
 - ### [같은 문자열을 여러 번 반복해서 일정한 문자열 크기로 지정해야할 경우](https://github.com/kung036/Today-I-Learn/blob/main/%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0/%EA%B0%99%EC%9D%80%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%97%AC%EB%9F%AC%20%EB%B2%88%20%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%20%EC%9D%BC%EC%A0%95%ED%95%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%81%AC%EA%B8%B0%EB%A1%9C%20%EC%A7%80%EC%A0%95%ED%95%B4%EC%95%BC%ED%95%A0%20%EA%B2%BD%EC%9A%B0.md)
