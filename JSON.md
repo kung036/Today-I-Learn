@@ -28,5 +28,3 @@ String json = mapper.writerValueAsString(TEXT);
 // JSON 객체 → 자바 객체
 객체_타입 obj = mapper.readValue(json, 객체타입);
 ```
-
-    -   
