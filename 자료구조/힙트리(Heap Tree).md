@@ -39,7 +39,25 @@
 > 왼쪽 자식 노드의 인덱스 : (현재 노드의 인덱스) \* 2  
 > 오른쪽 자식 노드의 인덱스 : (현재 노드의 인덱스) \* 2 + 1  
 > 부모 노드의 인덱스 : (자식 노드의 인덱스) / 2 내림
+<br></br>
 
--   사용되는 곳
+- 구현 : 우선순위 큐
+
+```Java
+// 힙(heap) 선언
+PriorityQueue<Integer> heap1 = new PriorityQueue<>(); // 오름차순(최소힙)
+PriorityQueue<Integer> priorityQueue = new PriorityQueue<>(Collections.reverseOrder()); // 내림차순(최대힙)
+
+// 데이터 삽입
+heap1.offer(1);
+heap1.add(2);
+
+// 데이터 삭제
+heap1.remove();
+heap1.poll();
+```
+<br></br>
+
+-   사용하는 것
     -   우선순위 큐
     -   힙 정렬
