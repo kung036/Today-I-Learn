@@ -32,31 +32,28 @@
             최소힙인 경우) 자식 노드의 값보다 삽입한 노드의 값이 크면 위치 변경
         5.  위치 변경이 일어나지 않을때까지 3, 4 과정 반복
 <br></br>
--   구현 : 배열
+-   구현 - 배열
     -   1번째 인덱스부터 사용, 0번째 인덱스 사용 X
     -   수식을 통해서 부모 노드와 자식 노드의 인덱스 찾기 가능
 
 > 왼쪽 자식 노드의 인덱스 : (현재 노드의 인덱스) \* 2  
 > 오른쪽 자식 노드의 인덱스 : (현재 노드의 인덱스) \* 2 + 1  
 > 부모 노드의 인덱스 : (자식 노드의 인덱스) / 2 내림
-<br></br>
 
-- 구현 : 우선순위 큐
-
+- 구현 - 우선순위 큐
 ```Java
 // 힙(heap) 선언
-PriorityQueue<Integer> heap1 = new PriorityQueue<>(); // 오름차순(최소힙)
-PriorityQueue<Integer> priorityQueue = new PriorityQueue<>(Collections.reverseOrder()); // 내림차순(최대힙)
+PriorityQueue<Integer> heap = new PriorityQueue<>(); // 오름차순(최소힙)
+PriorityQueue<Integer> heap1 = new PriorityQueue<>(Collections.reverseOrder()); // 내림차순(최대힙)
 
 // 데이터 삽입
-heap1.offer(1);
-heap1.add(2);
+heap.offer(1);
+heap.add(2);
 
 // 데이터 삭제
-heap1.remove();
-heap1.poll();
+heap.remove();
+heap.poll();
 ```
-<br></br>
 
 -   사용하는 것
     -   우선순위 큐
