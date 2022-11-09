@@ -14,7 +14,8 @@
 
 -   **JSON in Java**
     -   자바에서 JSON으로 변환된 객체 타입 : 문자열(String)
-    -   구현 : jackson 라이브러리의 ObjetMapper 클래스, net.minidev.json 라이브러리의 JSONParser 클
+    -   구현 : jackson 라이브러리의 ObjetMapper 클래스
+    -   구현 : JsonPath.parse() 메서드 이용
 
 ``` Java
 ObjectMapper mapper = new ObjectMapper();
@@ -31,6 +32,7 @@ String json = mapper.writerValueAsString(TEXT);
 
 // String → JSON 객체
 String str = "{\"data\":10}";
-JSONObject object = (JSONObject)(jsonParser.parse(str));
-long num = (long)object.get("memberId"); // num = 10
+long num = JsonPath.parse(str).read("$.data.memberId", Long.class); // num = 10
+// JsonPath.parse()로 String에서 JSON 객체로 변환
+// read() 메서드를 이용해서 JSON 객체에서 value 읽어오기
 ```
