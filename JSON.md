@@ -32,5 +32,5 @@ String json = mapper.writerValueAsString(TEXT);
 // String → JSON 객체
 String str = "{\"data\":10}";
 JSONObject object = (JSONObject)(jsonParser.parse(str));
-long num = (long)object.get("memberId");
+long num = (long)object.get("memberId"); // num = 10
 ```
