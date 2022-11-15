@@ -2,6 +2,7 @@
  
 ## **Spring**
 - ### [Pagination](https://github.com/kung036/Today-I-Learn/blob/main/Spring/Pagination.md)
+- ### [Spring Boot에서 Mysql 연동하기]()
 
 ## **JPA**
 - ### [영속성 전이(Cascade)](https://github.com/kung036/Today-I-Learn/blob/main/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%A0%84%EC%9D%B4(Cascade).md)
