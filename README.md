@@ -9,6 +9,7 @@
 
 ## **CS**
 - ### [HTTPS]()
+- ### [정규표현식]()
 
 ## **자료구조**
 - ### [자료구조](https://github.com/kung036/Today-I-Learn/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
@@ -29,6 +30,11 @@
 - ### [완전 탐색 알고리즘(Brute-Force Alogrithm)](https://github.com/kung036/Today-I-Learn/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Brute-Force%20Alogrithm).md)
 - ### [이진 탐색 알고리즘(Binary Search Alogrithm)](https://github.com/kung036/Today-I-Learn/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Binary%20Search%20Alogrithm).md)
 - ### [탐욕 알고리즘(Greedy)](https://github.com/kung036/Today-I-Learn/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%83%90%EC%9A%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(Greedy).md)
+- ### [최대공약수(GCD)]()
+- ### [최소공배수(LCM)]()
+- ### [순열]()
+- ### [조합]()
+- ### [멱집합]()
 
 ## **객체지향프로그래밍**
 -  ### [SOLID](https://github.com/kung036/Today-I-Learn/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/SOLID.md)
@@ -47,7 +53,7 @@
 - ### [Ingeter 배열 역순](https://github.com/kung036/Today-I-Learn/blob/main/%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20-%20Java/Ingeter%20%EB%B0%B0%EC%97%B4%20%EC%97%AD%EC%88%9C.md)
 - ### [int 배열 오름차순, 내림차순 정렬](https://github.com/kung036/Today-I-Learn/blob/main/%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20-%20Java/int%20%EB%B0%B0%EC%97%B4%20%EC%98%A4%EB%A6%84%EC%B0%A8%EC%88%9C%2C%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%20%EC%A0%95%EB%A0%AC.md)
 - ### [int 배열 ↔ Integer 배열](https://github.com/kung036/Today-I-Learn/blob/main/%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20-%20Java/int%20%EB%B0%B0%EC%97%B4%20%E2%86%94%20Integer%20%EB%B0%B0%EC%97%B4.md)
-
+- ### [ArrayList<String[]>을 정렬하는 방법]()
 
 
 - ### []()
